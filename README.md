@@ -32,9 +32,17 @@ Desafio do Ignite proposto na trilha de React cujo objetivo principal foi a apre
 
 ## dtMoney
 
-<!-- ![Home da aplicação](./readme/home.png) -->
-<!-- ![Modal para cadastro de transação](./readme/transaction-form.png) -->
-<!-- ![Demonstração da aplicação](./readme/dtMoney-demo.gif) -->
+O dtMoney é uma aplicação web construída com React cujo objetivo é registrar movimentações financeiras e propor uma visualização simplificada sob os gastos dos usuário.
+
+A interface é bem simples e consiste em 3 cards principais onde são listadas as entrada, saídas e o saldo total do usuário, conforme exemplificado abaixo:
+![Home da aplicação](./readme/home.png)
+
+Percebe-se que, além dos cards e das movimentações também temos um botão para cadastro de novas transações. O formulário de cadastro é bem simples, conforme veremos a seguir:
+![Modal para cadastro de transação](./readme/transaction-form.png)
+
+Após informar valor, tipo de movimentação e adicionar um titulo e categoria para a transação, ele será adicionado na lista de transações e os valores dos cards serão atualizados. Vamos acompanhar a seguir o fluxo de cadastro de uma nova transação:
+
+![Demonstração da aplicação](./readme/dtMoney-demo.gif)
 
 ## Instalação
 
@@ -42,7 +50,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
-### 🖥️ Rodando o Front End (Web)
+## 🖥️ Rodando a aplicação
 
 ```bash
 # Clone este repositório
