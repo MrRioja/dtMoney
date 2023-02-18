@@ -76,9 +76,7 @@ $ yarn start
 
 ## Tecnologias
 
-<img align="left" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />
-
-<br><br><br><br>
+[![My Skills](https://skillicons.dev/icons?i=react,ts)](https://skillicons.dev)
 
 ## Autor
 
